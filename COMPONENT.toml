@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-screen"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-screen component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
